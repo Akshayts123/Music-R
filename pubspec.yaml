@@ -28,7 +28,7 @@ dependencies:
   http: ^0.13.5
   intl: ^0.17.0 
   just_audio: ^0.9.31
-  material_design_icons_flutter: ^6.0.7096
+  material_design_icons_flutter: ^7.0.7296
   on_audio_query: ^2.6.1
   package_info_plus: ^3.0.2
   path_provider: ^2.0.11
